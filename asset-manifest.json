@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sh-project-app/static/css/main.e5372c83.css",
+    "main.js": "/sh-project-app/static/js/main.d010389b.js",
+    "static/media/btn-right.svg": "/sh-project-app/static/media/btn-right.f720aea0801136d71e79.svg",
+    "static/media/btn-left.svg": "/sh-project-app/static/media/btn-left.0685721601d3943170f5.svg",
+    "index.html": "/sh-project-app/index.html",
+    "main.e5372c83.css.map": "/sh-project-app/static/css/main.e5372c83.css.map",
+    "main.d010389b.js.map": "/sh-project-app/static/js/main.d010389b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5372c83.css",
+    "static/js/main.d010389b.js"
+  ]
+}
